@@ -33,12 +33,11 @@ I am dedicated to making an impact, with a focus on data science and machine lea
 ---
 ## Domains of Interests & Expertise
 :comet: Statistics <br>
+:comet: Data Analysis <br>
 :comet: Data Science <br>
 :comet: Machine Learning <br>
 :comet: Artificial Intelligence <br>
-:comet: Computer Vision <br>
 :comet: Deep Learning <br>
-:comet: AWS Machine Learning Services<br>
 :comet: MLops <br>
 :comet: AWS Data Analytics services<br>
 :comet: NLP
