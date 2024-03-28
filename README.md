@@ -8,22 +8,20 @@
   <img src="https://github.com/Kiprotich2019/Kiprotich2019/blob/main/Images/Icons/Aron.png" width="200px" height="200px">
 </p>
 
-### Full-Stack Developer | Data Scientist | Machine Learning Engineer 
+### Data Analyst | Data Scientist | Machine Learning Engineer 
 
 *I create algorithms and models that help computers learn from data and make forecasts, resulting in valuable business insights.*
 
 ---
 ### Profile Summary
 
-As a data science and machine learning engineer with extensive experience in AWS cloud and DevOps, I am passionate about leveraging data and technology to drive business outcomes. I have a strong background in data analysis, statistics, and machine learning algorithms, and I am skilled in developing end-to-end data solutions that deliver insights and value to stakeholders.
+I am a passionate data science and machine learning engineer that enjoys using cutting edge tools and methods to produce tangible business outcomes. Having a strong background in statistics, machine learning techniques, and data analysis, my area of expertise is developing end-to-end data solutions that provide stakeholders with useful information.
 <br><br>
 I have worked on a wide range of projects, including predictive modeling, natural language processing, image recognition, recommendation systems, and DevOps automation. I am comfortable working with large datasets and developing scalable, cloud-based solutions that can handle complex data processing and analysis.
 <br><br>
-In addition to my data science and machine learning expertise, I am proficient in AWS cloud technologies and have experience working with DevOps tools and practices. I have a deep understanding of cloud-based data architectures and deployment strategies, as well as the ability to design and implement continuous integration and deployment pipelines using AWS services like CodeCommit, CodeBuild, CodeDeploy, and CodePipeline.
-<br><br>
-As a collaborator and team player, I am committed to driving results and delivering high-quality work that meets the needs of my clients and stakeholders. I am always eager to learn and stay up-to-date with the latest data science, cloud, and DevOps technologies, and I enjoy sharing my knowledge and expertise with others.
+I'm motivated by a common dedication to excellence as a collaborator and team member. I do best in settings where a range of opinions come together to inspire creativity and produce significant results. I make sure my skill set stays at the forefront of industry trends by consistently keeping up with the newest developments in cloud computing, DevOps, and data science.
 <b><b>
-I am dedicated to making an impact, with a focus on data science and machine learning. My portfolio, featuring my work and contributions, can be viewed on GitHub *(here, under [repositories](https://github.com/Bernado6tab=repositories))*. I am appreciative of chances to advance professionally, demonstrate my knowledge, and demonstrate my dedication to leaving a lasting impression. If you share my vision and wish to collaborate, feel free to reach out at 📫 benardkipngenoyegon@gmail.com
+I am dedicated to making an impact, with a focus on data science and machine learning. My portfolio, featuring my work and contributions, can be viewed on GitHub *(here, under [repositories](https://github.com/Kiprotich2019?tab=repositories))*. I am appreciative of chances to advance professionally, demonstrate my knowledge, and demonstrate my dedication to leaving a lasting impression. If you share my vision and wish to collaborate, feel free to reach out at 📫 kiproticharon2019@gmail.com
 
 
 #### Professional Links:
@@ -188,18 +186,3 @@ I am dedicated to making an impact, with a focus on data science and machine lea
 Thank you for taking the time to visit my GitHub profile! 🙏🏼
 
 ---
-
-
-<!-- 
-**Bernado6/Bernado6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
