@@ -5,7 +5,7 @@
 ---
 ## About Me:
 <p align="left">
-  <img src="https://github.com/Bernado6/Bernado6/blob/main/Images/Icons/Ben-modified.png" width="200px" height="200px">
+  <img src="https://github.com/Kiprotich2019/Kiprotich2019/blob/main/Images/Icons/Aron.png" width="200px" height="200px">
 </p>
 
 ### Full-Stack Developer | Data Scientist | Machine Learning Engineer 
@@ -28,8 +28,8 @@ I am dedicated to making an impact, with a focus on data science and machine lea
 
 #### Professional Links:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/benard-kipngeno)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Bernado6)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aron-kiprotich/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Kiprotich2019)
 
 
 ---
